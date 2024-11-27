@@ -9,7 +9,7 @@ def chatbot_response(user_input):
     elif 'hours' in user_input or 'open' in user_input:
         return "We are open from 8 AM to 8 PM every day."
     elif 'location' in user_input or 'address' in user_input:
-        return "We are located at 123 Sweet Street, Bakery Town."
+        return "We are located at Bakery Town, Bangalore"
     elif 'order' in user_input:
         return "You can place an order by visiting our shop or calling us at (555) 123-4567."
     elif 'thank you' in user_input or 'thanks' in user_input:
