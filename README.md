@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/pavanakv/bakery-shop-chatbot.git
-    cd bakery-chatbot
+    cd bakery-shop-chatbot
     ```
 
 2. Run the script:
@@ -49,7 +49,7 @@ Once the application is running:
 - **Bot**: "We have a variety of fresh bread, cakes, cookies, and pastries."
 
 - **User**: "Where is the bakery located?"
-- **Bot**: "We are located at 123 Sweet Street, Bakery Town."
+- **Bot**: "We are located at Bakery Town, Bangalore"
 
 - **User**: "How can I place an order?"
 - **Bot**: "You can place an order by visiting our shop or calling us at (555) 123-4567."
